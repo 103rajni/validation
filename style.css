@@ -1,0 +1,23 @@
+body{
+    background-color: cyan;
+  }
+  h3{
+    color:red;
+    background-color: black;
+    text-align: center;
+  }
+  table{
+    background-color: powderblue;
+    border: 5px solid black;
+    padding:20px;
+    width: 600px;
+  }
+  label{
+    font-weight: bold;
+  }
+  .btn{
+    cursor: pointer;
+  }
+  .error{
+    color:red;
+  }
